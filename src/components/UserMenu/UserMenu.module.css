@@ -1,0 +1,10 @@
+.wrapper {
+  display: flex;
+  gap: 25px;
+}
+.title {
+  color: #070606;
+  font-weight: 600;
+  font-size: 24px;
+  margin: 0;
+}

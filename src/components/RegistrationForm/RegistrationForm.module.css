@@ -1,0 +1,28 @@
+.formRegistration {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 300px;
+  border-radius: 8px;
+  border: 1px solid rgb(0, 40, 56);
+  padding: 15px;
+  margin-bottom: 15px;
+}
+.fieldRegistration {
+  border-radius: 8px;
+  border: 1px solid rgb(0, 40, 56);
+  padding: 15px;
+}
+.wrapRegistrationForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+}
+.registrationTitle {
+  margin: 0 auto;
+}

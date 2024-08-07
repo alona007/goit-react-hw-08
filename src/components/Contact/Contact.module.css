@@ -1,0 +1,17 @@
+.wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 300px;
+  border-radius: 8p;
+  border: 1px solid rgb(0, 40, 56);
+  padding: 15px;
+  border-radius: 8px;
+}
+.item {
+  display: flex;
+  align-items: center;
+}
+.icon {
+  padding-right: 5px;
+}

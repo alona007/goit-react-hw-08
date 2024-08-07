@@ -1,0 +1,23 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 25px;
+}
+.item {
+  font-size: 24px;
+  font-weight: 600;
+}
+.wrapHomePage {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
